@@ -1,2 +1,1 @@
-# BatironMTZ.github.io
-SXSgens
+Fan sonic x shadow generations web page for a school project
